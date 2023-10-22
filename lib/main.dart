@@ -1,3 +1,4 @@
+import 'package:quiz_app_rez/core.dart';
 import 'package:flutter/material.dart';
 import 'package:quiz_app_rez/quiz.dart';
 
